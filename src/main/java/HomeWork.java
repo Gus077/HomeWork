@@ -8,6 +8,7 @@ public class HomeWork {
         System.out.println(isNegative(-4));
         greetings();
         year (2021);
+
     }
     public static float calculate (float a, float b, float c, float d) {
         float result = a * (b + (c / d));
